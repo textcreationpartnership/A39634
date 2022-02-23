@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The five strange wonders, in the north and west of England as they were communicated to divers honourable members of Parliament, from several countrey gentlemen and ministers, concerning the strange and prodigious flying in the air of a black coffin betwixt Leicester and Nottingham, on Sabbath day last was a fortnight, with a flaming arrow, and a bloody sword, casting forth firearms of fire ... : with a conjecturation thereupon, what these dreadful signs from heaven, may denote and signifie to the people on earth this present summer : likewise, the great and wonderful warlike prodigies, which appeared over Marston-Moor, near the city of York, between two fierry or flaming pillars, and the three monstrous creatures found in three eggs, laid by one hen bought in Execter Market ... : together with the opening of the skie in a fearful manner over Standish town five miles from Gloucester, and the appearing of a terrible fiery shaking sword form the heavens ... : attested by an eye-witness, and entred upon record, in the original Mirrour, or Looking Glass ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39634</idno>
+            <idno type="STC">Wing F1124</idno>
+            <idno type="STC">ESTC R7489</idno>
+            <idno type="EEBO-CITATION">11800250</idno>
+            <idno type="OCLC">ocm 11800250</idno>
+            <idno type="VID">49369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 492:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The five strange wonders, in the north and west of England as they were communicated to divers honourable members of Parliament, from several countrey gentlemen and ministers, concerning the strange and prodigious flying in the air of a black coffin betwixt Leicester and Nottingham, on Sabbath day last was a fortnight, with a flaming arrow, and a bloody sword, casting forth firearms of fire ... : with a conjecturation thereupon, what these dreadful signs from heaven, may denote and signifie to the people on earth this present summer : likewise, the great and wonderful warlike prodigies, which appeared over Marston-Moor, near the city of York, between two fierry or flaming pillars, and the three monstrous creatures found in three eggs, laid by one hen bought in Execter Market ... : together with the opening of the skie in a fearful manner over Standish town five miles from Gloucester, and the appearing of a terrible fiery shaking sword form the heavens ... : attested by an eye-witness, and entred upon record, in the original Mirrour, or Looking Glass ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Unidentified flying objects --  Early works to 1800.</term>
+               <term>Apparitions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49369:1"/>
+            <pb facs="tcp:49369:1"/>
+            <p>The Five ſtrange WONDERS, In the <hi>North</hi> and <hi>Weſt</hi> of ENGLAND: AS They were communicated to divers Honourable Members of <hi>Parliament,</hi> from ſeveral Countrey Gentlemen and Miniſters; concerning the ſtrange and prodigious flying in the Air of a Black <hi>Coffin</hi> betwixt <hi>Lieceſter</hi> and <hi>Nottingham,</hi> on <hi>Sabbath</hi> day laſt was a fortnight, with a flaming Arrow, and a Bloody Sword, caſting forth ſtreams of Fire, to the great wonder and aſtoniſhment of many Hundreds of People that beheld the ſparkling and glittering Rays, as far as <hi>Newark Beaver, Loughborough, Melton</hi> and divers other places: With a <hi>Conjectu<g ref="char:EOLhyphen"/>ration</hi> thereupon, what theſe dreadful Signs from Heaven, may denote and ſignifie to the People on Earth this preſent Summer.</p>
+            <p>Likewiſe, the great and wonderfull <hi>Warlike Prodigies,</hi> which appeared over <hi>Marſton-Moor,</hi> near the <hi>City</hi> of <hi>York,</hi> between two fiery or flaming Pillars. And the three Monſtrous <hi>Creatures</hi> found in three Eggs, laid by one Hen bought in <hi>Exceter</hi> Market one Night, wherein was found a <hi>Serpent,</hi> a <hi>Cockatrice,</hi> and a <hi>Toad.</hi> Toge<g ref="char:EOLhyphen"/>ther with the opening of the <hi>Skie</hi> in a fearful manner over <hi>Standiſh</hi> town five miles from <hi>Gloucester,</hi> and the appearing of a terrible fiery ſhaking Sword from the Heavens, with its Point downward towards the Earth; as alſo the colour thereof, and what proceeded from it, running along the ground.</p>
+            <p>
+               <hi>ATteſted by an Eye-Witneſs; and entred upon Record, in the</hi> Original Mirrour, or Loo<g ref="char:EOLhyphen"/>king Glaſs: <hi>And for more general ſatisfaction, preſented to the view of the three Na<g ref="char:EOLhyphen"/>tions of</hi> England, Scotland, <hi>and</hi> Ireland.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. THOMAS,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49369:2"/>
+            <pb facs="tcp:49369:2"/>
+            <head>
+               <hi>The Worlds New Wonders;</hi> OR, The Fiery and Flaming Prodigies, in the North and Weſt of <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Any of the People of God who live in ſuch backſliding Times, wherein publike dangers are approaching, being conſcious to their own infirmities, and weak<g ref="char:EOLhyphen"/>neſs, are many times much perplexed with the fears and apprehenſions of enſuing perils (eſpecially up<g ref="char:EOLhyphen"/>on the appearing of ſuch ſtrange Prodigies in the Skies, even in theſe latter dayes:) and through weak<g ref="char:EOLhyphen"/>neſs of Faith, much queſtion, Whether they be able to undergo ſuch Conflicts, and endure ſuch Temptations, as many deſpiſed Creatures of this Earthly Fabrick formerly have done? Or whether the power of God doth ſo eminently appear in theſe latter Times for his Church and and Children, as in precedent Ages, and in the firſt primitive times of, the Goſpel it did? But certainly the Name of God is wonderful ſtill: His glorious Arm is not ſhortned, that it cannot ſave; nor his Ear heavy, that it cannot hear: So that we may aſſure our ſelves, that he will pre<g ref="char:EOLhyphen"/>ſerve us from, or ſupport us under, or deliver us from the rage and ſub<g ref="char:EOLhyphen"/>tilty of the grandeſt Serpents, notwithſtanding the various Changes, and unparallel'd Revolutions, either in State or Common-wealth: For obſervable it is, both of the ancient and modern Times, that the greateſt Prince who ever reigned in Tyranny, had (at the laſt) a final ſubverſi<g ref="char:EOLhyphen"/>on in defamation and miſery; and thoſe that think to palliate their black and wicked Deſigns, under the ſpecious pretences of Religion and Liberty; muſt know, that the time is near, of their diſguiſing, and the Stalking-horſe diſcovered, under the Name of Goſpel and Reformati<g ref="char:EOLhyphen"/>on: For as the Comets appeared before the death of <hi>Manaſſes</hi> King of <hi>Judah,</hi> for his cruel Tyranny againſt the good Prophet <hi>Eſay,</hi> ſo doth the prodigious Exhalations in the Air (in this our Age) denote the great Fall of thoſe who ſhall uſurp the Peoples Liberties; and as three Suns and a fie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Dart, were ſeen in the Heavens before the death of <hi>Dio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le<g ref="char:EOLhyphen"/>ſian</hi> the Tyrant, ſo likewiſe appeared very ſtrange Prodigies, upon the change of a great and high Potentate, who by the good hand of Pro<g ref="char:EOLhyphen"/>vidence was timely removed and taken from us.</p>
+            <pb n="4" facs="tcp:49369:3"/>
+            <p>Amongſt the reſt, that which is moſt obſervable, is, the Diſmal ſight in the Air, on Sabbath day laſt was a fortnight, prodigouſly reprepreſent<g ref="char:EOLhyphen"/>ing it ſelf from one of the clock in the forenoon, till about a quarter and a half after three, in the perfect Figure and Form of a black Coffin, with a fiery Dart, and a flaming Sword flying to and again, backwards and forwards, towards the head of the ſaid Coffin, which was with great wonder and admiration beheld by many hundreds of People between Lieceſter and Nottinghamſhire; the luſtre whereof, at its breaking, was of ſo large an Extent, that the ſtreams thereof were ſeen glittering and ſparkling as far as Newark, Beaver, Nottingham, Loughborough, Melton, and divers other Countrey Towns, and parts adjacent; to the great aſtoniſhment of the Inhabitants.</p>
+            <p>And very obſervable it is, that the fiery Dart, or Arrow, du<g ref="char:EOLhyphen"/>ring the time that the Coffin lay havering and flying up and down in the Air, ſeemed as it were to charge each other, and with ſuch claſhing, and ſtreaks of fire, as the like is not to be parallel'd in any Age; but upon the diſſolution of the Cof<g ref="char:EOLhyphen"/>fin, abundance of ſtreams of fire proceeded from it, which appeared ſo conſpicuous, That the Heavens ſeemed to re<g ref="char:EOLhyphen"/>ceive its Light and Serenes from its illuſtrious influences: But no ſooner were theſe ſerene and bright Rays clouded and eclipſed by the black and louring Clouds, but the great ſplen<g ref="char:EOLhyphen"/>dor of the fiery ſtreams, proceeding from the Sword and Arrow, immediatly took their center within their own Re<g ref="char:EOLhyphen"/>gion and Horizon, and were ſeen no more from that day, &amp;c. The truth hereof is atteſted from the hands of ſeveral Gen<g ref="char:EOLhyphen"/>tlemen of quality, and Reverend Divines, to divers honoura<g ref="char:EOLhyphen"/>ble Members of Parliament, perſons of great worth and inte<g ref="char:EOLhyphen"/>grity, and ſeveral conjectures (poſſibly) may be made there<g ref="char:EOLhyphen"/>upon: But that the Coffin denotes Mortality, too ſad and woful Experience we have in theſe our days, both in city &amp; countrey; and probably the other two Signals from Heaven, may repreſent a War or Famine: But the Lord of his infi<g ref="char:EOLhyphen"/>nite mercy divert theſe ſad and juſt-deſerved Judgments from falling upon theſe Nations, notwithſtanding the great confe<g ref="char:EOLhyphen"/>deracie of her potent Enemies, and grant, that there may be redintegrate imbracings, and renewings of love between the People and their Repreſentative, as being far better for all the Plants of this Common-wealth to be watered by the
+<pb n="5" facs="tcp:49369:3"/> ſweeteſt Dewes and ſhowers of Heaven, than by the moſt liberal hand of any perſon whatſoever, which is always conſumma<g ref="char:EOLhyphen"/>ting.</p>
+            <p>The next thing that preſents it ſelf to publike view, is, the great fleak or ſheet of fire, which appeared in the Skie over the Town of <hi>Oukam</hi> In <hi>Rutland,</hi> on Sunday was fortnight, the manner thus: About four of the clock in the afternoon, as people were coming from the Church, great ſparklings, and illuſtrious Rays were ſeen to deſcend from the Firmament and immediatly after a great ſheet or fleak of Fire appeared, which at the laſt flew quite down the Town, to the ſign of the Crown, where it center'd, burnt, and extin<g ref="char:EOLhyphen"/>guiſhed. <hi>A ſad Omen for thoſe that ſhall aſſume the Royal Dignity without Authority.</hi>
+            </p>
+            <p>In a word the next Prodigie that we ſhall here inſiſt upon is, a<g ref="char:EOLhyphen"/>nother Exhaliaton in the Air as full of wonder as admiration, as e<g ref="char:EOLhyphen"/>vidently appears, by the teſtimony given by the <hi>York ſhire</hi> Carriers, who affirm, that about the beginning of this moneth two Fiery Pil<g ref="char:EOLhyphen"/>lars were viſible ſeen at Noon-day over <hi>Marston Moor,</hi> about five miles from the City of <hi>York;</hi> the brightneſs whereof extended as far as <hi>Wakefield, Wetherby, Pontefract, Sandwich, Doncaſter, Leeds, Hallifax,</hi> and divers other places; and between theſe two Pillars intervened ſeveral armed Troops and Companies in Battail array, preſenting each other with ſeveral Vollies, and after ſome Diſpute, the Northern Army vanquiſhed the Southern Army: which being done, the two Pillars vanquiſhed.</p>
+            <p>What this portends, no man can conjecture aright: but it may be ſuppoſed, the two Pillars repreſent his Highneſs and the Parlia<g ref="char:EOLhyphen"/>ment, and the Northern Army the Forces of this Common wealth, vanquiſhing their Enemy, and maugre the Deſigns of all Forreign and Popiſh Confederates. Who need not in the leaſt be feared, if the mutual cloſings and claſpings of redintegrate affections and endearments be inſiſted upon between the Supream Authority and People, and each member of this Common-wealth, to return to his duty and proper ſtation, and firmly to unite together, for the reco<g ref="char:EOLhyphen"/>very of our long-loſt Liberties, and dear-earn'd Priviledges.</p>
+            <pb n="6" facs="tcp:49369:4"/>
+            <p>And as there appeared a fiery Meteor in the Air near Briſtow, on the South ſide of the City, for divers nights together, in form long, with fiery ſtreames ſhooting out Eaſt and Weſt; which was the week before the be heading of the late King <hi>Charles:</hi> So have we had ſundry other Mutations, ſince thoſe diſmal and gloomy days; as fiery Comets, Blazing Stars, Warlike Troops, and viſible Bands of Foot, which cauſed great admiration to many hundred Spectators at Newmarket-Heath, on <hi>Tueſday</hi> laſt was ſeven night, where many of the Inhabitants thereabouts were much aſtoniſhed, eſpecially at the dreadful noiſe of Drums beating, and Trumpets ſounding, which cauſed as great aſtoniſhment, as wonder; by reaſon they ſaw no Warlike Bands viſible at preſent: Yet no ſooner had this Eccho poſſeſs'd them with various Ruminations, but immediat<g ref="char:EOLhyphen"/>ly they began to diſcern ſeveral Warlike Troops and Companions, arraying themſelves in Battalia; and after ſome pickeering, and vollies preſented between ſeveral Parties, as it were Forlorn Hopes, the two main Bodies joyned Battel, diſputing very puiſiantly, and with great vigour. During this Engagement, there ſeemed to be an extraordinary Light, and glittering of Swords, and Men in Armour, which continued for the ſpace of half an hour; and then the one ſeemed to vanquiſh the other, taking their purſuit towards the City of <hi>London.</hi>
+            </p>
+            <p>And as this was no ſmall terrour to the Beholders, ſo was the ſucceeding Thunder as great a Wonder to the Spectators, who after ſundry great Claps from an Angry God, even like unto an Enemies Warning-Piece, preſented to the Earth a mighty Thunder-bolt, much like unto the Shell of a great Granado; which was taken up and carried to Juſtice <hi>Foſter</hi>'s houſe neae adjacent, where it now lies, and is there to be ſeen at this day; as it was affirmed by Captain <hi>Neilſon,</hi> the <hi>Nerſolk</hi> Poſt, and ſome others, who came to <hi>London,</hi> and lodged at the Sign of the Ram-Inne, in Weſt-Smithfield.</p>
+            <p>It is obſervable, That not long after this Wonder from Heaven, had pre<g ref="char:EOLhyphen"/>ſented it ſelf to the Inhabitants of the Earth, but a bright Star of a great Mag<g ref="char:EOLhyphen"/>nitude, was ſeen glittering and ſparkling up and down, even like unto that in the Weſt; whoſe Luſtre was of ſo large an Extent, and appeared ſo conſpicu<g ref="char:EOLhyphen"/>ous, That although the Air was dark, yet bright and ſerene were the glorious Rays which ſtreamed forth by its great ſplendor, as if the Heavens received all its Screnes from its illuſtrious influences. This Star was ſeen for the ſpace of two Nights conſtantly about ten of the Clock: yet in ſeveral Forms; as ſome<g ref="char:EOLhyphen"/>times like a fiery Dragon; ſometimes like a flaming Sword; and ſometimes in an Oval Form, caſting forth a round flame as big as a buſhel, and divers ſpark<g ref="char:EOLhyphen"/>ling Coales.</p>
+            <pb n="7" facs="tcp:49369:4"/>
+            <p>As theſe pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>digies port<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd no little wonder; ſo doth Beheaded Dr. <hi>John Hewytts</hi> Ghoſt, produce as great admiration, amongſt many; who by its plea<g ref="char:EOLhyphen"/>ding and crying, calls for Juſtice; which to ſome ſeems already executed; and begins thus; ſaying he is by Birth a Freeman of England, and that it is the undoubted ancient inſeparable Birthright, Privilege, and Inheritance of every Engliſh Freeman both by the Common Laws, Franchiſes, Great Chatters, Sta<g ref="char:EOLhyphen"/>tutes and Uſages of this Land, ratified from Age to Age by the Votes, Reſoluti<g ref="char:EOLhyphen"/>ons, Declarations, Jndgements of the High Court of Parliament, and other publike Courts of Juſtice: That no Freemen of England may or ought to be taken or impriſoned, or diſſeiſed, or diſinherited of his freehold, Libertyes, or Free Cuſtoms, or to be outlawed, exiled, or any way deſtroyed, or pur to death, upon any accuſation whatſoever, but by the lawful Judgment of his Peers, or by the Law of the Land, upon Inqueſt and Preſentment by the Oaths of 12 good and lawful men, upon good and probable evidence and witneſs. And that if any thing be done to the contrary of the Premiſes, it ſhall be void in Law, holden for errour, and nought.</p>
+            <div type="part">
+               <head>An Exact Relation touching the deſcending down from Heaven great Fleaks and ſheets of fire, neer Coventry and Litterworth.</head>
+               <p>ON the 24th of this inſtant March, 1659. By ſeveral perſons of worth it was certified, That about the beginning of this Moneth, great Apparitions and wonderful Signs and Lightnings of Fire were ſeen in the Air; and a Flaming Flake of Fire, about the bigneſs of an ordinary Sheet, were ſeen at the Market-Town of Litterworth in Leiceſterſhire, taking its flight towards Cotsbich Grounds, where it deſcended to the Earth, and immediatly extinguiſhed, without doing any harm; although many hundreds of the Countrey People beheld the ſame, to their great wonder and aſtoniſhment. The like alſo appeared at a Town in Warwickſhire, called Non-Eaton, about 7 miles from Coventry, where a great Sheet of Fire were ſeen hovering and flying in the Air about the 7th inſtant, towards the Evening; and after ſome time flying up and down, at laſt took its deſcent down into the Church-yard, where a great compa<g ref="char:EOLhyphen"/>ny of Boyes were playing, falling juſt amongſt them; yet did no harm, not ſo much as a hair of any of their heads periſhing: for no ſooner was it come to the ground, but it immediatly extinguiſhed likewiſe, although it ſeemed of a light flame upon its falling down. What theſe ſtrange Signs and Wonders por<g ref="char:EOLhyphen"/>tend, no man knoweth: yet this conjecture may fitly be applyed, That it deno<g ref="char:EOLhyphen"/>teth great Changes, Alterations, and Mutations, in ſeveral Nations: for it is obſervable, That ſundry Examples of divers Prodigies, are ſtill freſh in the Memory of Man; As the raining of Blood in the North, preſently after the Scots came into England, to aſſiſt the Parliament, which covered the Church and Church-yard of Bencaſtle in Cumberland. And the day before Edge-Hill ſight three Suns were ſeen in the North. God divert his heavy Judgments from falling upon theſe Nations.</p>
+               <pb n="8" facs="tcp:49369:5"/>
+               <p>To conclude, in the next place, be pleaſed to obſerve, that a<g ref="char:EOLhyphen"/>mongſt the greateſt of Wonders, that ſhall ariſe from the fore<g ref="char:EOLhyphen"/>mentioned Prodigies: this may be fitly ranked amongſt the moſt ſtrangeſt of them, <hi>viz.</hi> That about a fortnight agoe, a Woman buying of a Hen in <hi>Exceter-market,</hi> with a reſolution to kill her the next day, put her over night in a Coop, and the next morning comming to take her out, found that ſhe had laid three Eggs, which made her exceedingly aſtoniſhed; inſomuch, that acquain<g ref="char:EOLhyphen"/>ting ſome of her Neighbors with it, they adviſed her to break them, which ſhe did; and in the firſt diſcovered the perfect ſign and ſhape of a <hi>Serpent,</hi> dead: in the ſecond, a <hi>Cockatrice;</hi> and in the third a <hi>Toad:</hi> both which laſt, ſeemed to ſtir at the firſt, but immediately died. Theſe may fitly ſignifie the Death of an old <hi>Serpent,</hi> the ſurviving of a <hi>Cockatrice,</hi> and a reſemblance of the moſt unworthy Actions of many in Authority, whom we leave for true Juſtice to rectifie. Deſiring rather, that each member would endeavour to ſail in the Ocean of Security to the deſired Haven, than ſplit againſt the Rocks of Ambition and injuſtice.</p>
+               <p>Thus having given you an account of theſe ſtrange Prodigies which hath lately happened in theſe our dayes, give me leave to wind up the truth of all, with one Preſident or Example, that hapned upon the 30 day of <hi>Jan.</hi> in the year 1650. which was thus, Upon St. <hi>Andrews</hi> day, a little before, or about Sun-riſing, the Skie opened in a fearful manner, in the <hi>South-Weſt</hi> over <hi>Standiſh,</hi> a Town five miles from <hi>Glouceſter,</hi> and there appeared a terrible fearful fiery flaming Sword, with the hilt upwards, towards the Heavens, the point downwards to the Earth; the Hilt ſeemed to be blue, the Sword was a great length, ſhaking hither and thither, and comming lower towards the Earth. There was a long flame of fire towards the point, ſparkling, and flaming in a fearful man<g ref="char:EOLhyphen"/>ner, to the great aſtoniſhment of the Spectators, who were many. At laſt the Haven cloſing, the Sword vaniſhed, and the fire fell to the Earth, and ran upon the ground.</p>
+            </div>
+            <byline>This is entred upon Record, by an Eye witneſs, and publiſhed for generall ſatisfaction to the Nations.</byline>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
